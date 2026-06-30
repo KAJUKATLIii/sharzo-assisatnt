@@ -1,5 +1,5 @@
 # 🤖 SHARZO
-### The Ultimate Cyberpunk Hacker Terminal AI — By Kajukatli
+### The Terminal Styled AI — By Kajukatli
 
 ![SHARZO Terminal](face.png)
 
